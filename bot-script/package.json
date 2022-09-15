@@ -1,0 +1,19 @@
+{
+  "name": "twitterbot",
+  "version": "1.0",
+  "description": "Twiiter Bot",
+  "main": "./config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js" 
+  },
+
+  "keywords": [
+    "bot",
+    "twiiter bot"
+  ],
+  "author": "Inspirit",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
