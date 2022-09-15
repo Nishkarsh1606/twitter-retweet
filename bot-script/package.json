@@ -8,10 +8,6 @@
     "start": "node bot.js" 
   },
 
-  "keywords": [
-    "bot",
-    "twiiter bot"
-  ],
   "author": "Inspirit",
   "dependencies": {
     "twit": "^2.2.11"
